@@ -9,4 +9,6 @@ console.log(string) // 'string'
 
 _coaslescência_ = união, aderência
 
-mais detalhes | [Operador de coalescência nula - MDN]("https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing")
+mais detalhes | [Operador de coalescência nula - MDN][def]
+
+[def]: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing"
